@@ -37,7 +37,7 @@ If you notice any bugs in the plugin, you can notify me about it and we'll inves
 
 1. Upload the folder `socman` to the directory `/wp-content/plugins/`.
 2. Activate the plugin via the 'Plugins' menu in your WordPress admin panel.
-3. You can adjust the necessary settings in your WordPress admin panel - "SOCMAN".
+3. You can adjust the necessary settings in your WordPress admin panel - "SOCMEN".
 
 == Frequently Asked Questions ==
 
@@ -46,7 +46,8 @@ If you notice any bugs in the plugin, you can notify me about it and we'll inves
 Step by step instructions
 
     1) Go to Apperance - Menus - Custom links.
-    2) Under URL section put #. Under Link Text section put social. Press Add to Menu.
+    2) Under URL section put #. Under Link Text section put social. 
+	Press Add to Menu.
     3) In Menu Structure section click on Social custom link.
     4) Under Title Attribute put zmbtr.
     5) Under Theme locations select your menu location.
