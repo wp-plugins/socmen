@@ -17,7 +17,8 @@ This plugin was made to easy fill up the empty space in menu bar with few off mo
 Step by step instructions
 
     1) Go to Apperance - Menus - Custom links.
-    2) Under URL section put #. Under Link Text section put social. Press Add to Menu.
+    2) Under URL section put #. Under Link Text section put social. 
+	Press Add to Menu.
     3) In Menu Structure section click on Social custom link.
     4) Under Title Attribute put zmbtr.
     5) Under Theme locations select your menu location.
@@ -30,8 +31,7 @@ https://www.youtube.com/embed/fY4cMPnLwhA
 = Technical support =
 
 Dear users, this plugin is available for free download. If you have any questions or recommendations regarding the functionality of this plugin (existing options, new options, current issues), please feel free to contact me. I speak serbian and english.
-If you notice any bugs in the plugin, you can notify me about it and we'll investigate and fix the issue then. Your request should contain URL of the website, issues description and later maybe WordPress admin panel credentials.
-If you need some special customization of the plugin, I can do that too, but it's a paid service. Please don't hesitate to contact me.
+If you notice any bugs in the plugin, you can notify me about it and we'll investigate and fix the issue then. Please don't hesitate to contact me.
 
 == Installation ==
 
