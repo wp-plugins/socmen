@@ -55,7 +55,7 @@ function zmsocmen_settings_page() {
 <div class="wrap1">
 <h2>SOCMEN</h2>
 <div class="okvir">
-<h3>URL settings</h3>
+<div class="naslov">URL settings</div>
 <p>Add URL without http:// or https:// . You don't have to fill all the fields.</p>
 <form method="post" action="options.php">
     <?php settings_fields( 'zmsocmen-settings-group' ); ?>
@@ -88,7 +88,7 @@ function zmsocmen_settings_page() {
     </table>
 	</div>
 	<div class="okvir">
-	<h3>Icon settings</h3>
+<div class="naslov">Icon settings</div>
 	<p>Size and margins of icons. Width and Height are the same and only one value is required. Max recommended value is 48. Default value is 24. </p>
 	    <table class="form-table1">
         <tr valign="top">
@@ -118,7 +118,7 @@ function zmsocmen_settings_page() {
 </div>
 <div class="wrap2">
 <div class="okvir">
-<h3>Step by step instructions</h3>
+<div class="naslov">Step by step instructions</div>
 <ul>
 <li>1) Go to Apperance - Menus - Custom links.</li>
 <li>2) Under URL section put #. Under Link Text section put social. Press Add to Menu.</li>
@@ -129,11 +129,11 @@ function zmsocmen_settings_page() {
 </ul>
 </div>
 <div class="okvir">
-<h3>Video instructions</h3>
+<div class="naslov">Video instructions</div>
 <iframe width="360" height="270" src="https://www.youtube.com/embed/fY4cMPnLwhA" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="okvir">
-<h3>Thanks...</h3>
+<div class="naslov">Thanks...</div>
 ... for using my plugin. Really hope that you will find it useful... 
 <p style="text-align:right"><a target="_blank" href="http://zoranmaric.com">Zoran Maric</a></p>
 </div>
